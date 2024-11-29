@@ -6,5 +6,5 @@ jobs:
     steps:
       - name: First greeting 
         run: echo "Hello World from Pavan"
-      - name: Bye bye greating
+      - name: Bye bye greeting
         run: echo "Bye bye"
